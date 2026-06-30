@@ -2,7 +2,7 @@
 
 # 📊 Data Visualization for Data Science
 
-Learn, practice, and master **Python Data Visualization** using **Matplotlib**, **Seaborn**, **Plotly**, and **Cufflinks**.
+Learn, practice, and master **Python Data Visualization** using **Matplotlib**, **Seaborn***.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -110,7 +110,6 @@ By the end of this repository, I aim to:
 - Understand the fundamentals of data visualization
 - Select appropriate charts for different types of data
 - Build publication-quality visualizations
-- Create interactive dashboards using Plotly
 - Apply visualization techniques during Exploratory Data Analysis (EDA)
 
 ---
@@ -143,12 +142,6 @@ Navigate to the project:
 
 ```bash
 cd DataVisualization-for-DataScience
-```
-
-Install dependencies:
-
-```bash
-pip install matplotlib seaborn plotly cufflinks pandas numpy
 ```
 
 ---

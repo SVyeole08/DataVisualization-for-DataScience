@@ -103,6 +103,33 @@ Some commonly used datasets include:
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏏 IPL 2022 Exploratory Data Analysis
+
+An exploratory data analysis project on the **IPL 2022** season using Python. The project analyzes team performance, toss decisions, player achievements, venue statistics, and match-winning patterns through informative visualizations.
+
+**Key Insights**
+
+- 🏆 Team with the most match wins
+- 🪙 Toss decision trends
+- 🤝 Toss winner vs match winner analysis
+- 🎯 Match wins by runs vs wickets
+- 🌟 Most Player of the Match awards
+- 🏏 Top run scorers
+- 🎳 Best bowling performances
+- 🏟️ Venue-wise match analysis
+- 📈 Highest victory margins
+- 💯 Highest individual score
+  
+**Tools Used**
+
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+
+**Status:** ✅ Completed
+
+---
+
 # 🚀 Learning Objectives
 
 By the end of this repository, I aim to:
